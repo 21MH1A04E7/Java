@@ -33,7 +33,7 @@ class B extends A{
         return a+b+1;
     }
 }
-// for a method to be overridden, the following conditions must be met:
+// for a method to be overriding, the following conditions must be met:
 
 //  -- The method in the subclass must have the same signature (name, number and type of parameters) as the method in the superclass.
  
